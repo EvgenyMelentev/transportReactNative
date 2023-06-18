@@ -1,0 +1,92 @@
+[
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba1",
+        "tsname": "111",
+        "driverName": "Валерий",
+        "coordinates1": 55.751244,
+        "coordinates2": 37.918423,
+        "phoneNumber": 79319702211,
+        "category": "freight"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28b22",
+        "tsname": "112",
+        "driverName": "Пётр",
+        "coordinates1": 55.551244,
+        "coordinates2": 37.618423,
+        "phoneNumber": 79319702211,
+        "category": "passenger"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba2234",
+        "tsname": "113",
+        "driverName": "Василий",
+        "coordinates1": 55.751244,
+        "coordinates2": 36.518423,
+        "phoneNumber": 79319702211,
+        "category": "passenger"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba131693",
+        "tsname": "114",
+        "driverName": "Иван",
+        "coordinates1": 55.751244,
+        "coordinates2": 37.618423,
+        "phoneNumber": 79319702211,
+        "category": "passenger"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba1374961",
+        "tsname": "115",
+        "driverName": "Степан",
+        "coordinates1": 55.151244,
+        "coordinates2": 37.618423,
+        "phoneNumber": 79319702211,
+        "category": "freight"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba'317913891627287",
+        "tsname": "116",
+        "driverName": "Владимир",
+        "coordinates1": 55.751244,
+        "coordinates2": 37.118423,
+        "phoneNumber": 79319702211,
+        "category": "freight"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba31781307010000",
+        "tsname": "117",
+        "driverName": "Дмитрий",
+        "coordinates1": 1155.7512442,
+        "coordinates2": 38.618423,
+        "phoneNumber": 79319702211,
+        "category": "special"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba11222415",
+        "tsname": "118",
+        "driverName": "Алексей",
+        "coordinates1": 57.751244,
+        "coordinates2": 37.618423,
+        "phoneNumber": 79319702211,
+        "category": "special"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba8137917317",
+        "tsname": "119",
+        "driverName": "Артур",
+        "coordinates1": 55.751244,
+        "coordinates2": 36.618423,
+        "phoneNumber": 79319702211,
+        "category": "special"
+    },
+    {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28bahdakh18",
+        "tsname": "120",
+        "driverName": "Мария",
+        "coordinates1": 56.751244,
+        "coordinates2": 37.618423,
+        "phoneNumber": 79319702211,
+        "category": "special"
+    }
+]
